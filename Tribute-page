@@ -1,0 +1,43 @@
+<main id="main">
+  <h1 id="title">Raymond Reddington</h1>
+  <p>Concierge of Crime</p>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://lh3.googleusercontent.com/proxy/0cjk2MFMUUvgZQZ4cSd9LrpXEu3TdgFnvZwYxYSK4cnTPJtDwve20Ff8rlYSVYwNB3cfgFGs8SLRq2N7k0aQxwRpde337OfBYaNOCqGlRElGjdQDmYb6d8KsPgE"
+      alt="Raymond Reddington sitting"
+    />
+    <figcaption id="img-caption">
+      Raymond Reddington wearing his classic fedora hat.
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here's a list of Reddington's greatest heists:</h3>
+    <ul>
+      <li>The Monarch Douglass Bank Heist </li>
+      <li>Robbing Rivera </li>
+      <li>The Rare Bronze Lincoln Penny </li>
+      <li>The US Mint In Dever </li>
+      <li>Robbing Robert Diaz </li>
+     
+    </ul>
+    <blockquote
+      cite="https://screenrant.com/the-blacklist-reddington-best-quotes/"
+    >
+      <p>
+        "When You Love Someone You Have No Control. That's What Love Is. Being Powerless."
+      </p>
+      <cite>-- Raymond Reddington</cite>
+    </blockquote>
+    <h3>
+      If you have time, you should read more about this incredible criminal
+      on his
+      <a
+        id="tribute-link"
+        href="https://the-blacklist.fandom.com/wiki/Raymond_Reddington"
+        target="_blank"
+        >Fandom article</a
+      >.
+    </h3>
+  </section>
+</main>
